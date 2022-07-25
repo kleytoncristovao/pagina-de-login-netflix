@@ -1,0 +1,8 @@
+.help__link {
+    text-decoration: none;
+    color: #737373;
+}
+
+.help__link:hover {
+    text-decoration: underline;
+}

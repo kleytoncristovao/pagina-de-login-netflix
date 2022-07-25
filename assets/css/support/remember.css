@@ -1,0 +1,9 @@
+.remember {
+    display: flex;
+    align-items: center;
+}
+
+.remember__span {
+    margin-right: 5px;
+    height: 25px;
+}

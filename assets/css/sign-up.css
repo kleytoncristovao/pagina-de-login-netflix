@@ -1,0 +1,14 @@
+.sign-up {
+    color: #737373;
+    font-size: 16px;
+}
+
+.sign-up__link {
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.sign-up__link:hover {
+    text-decoration: underline;
+}

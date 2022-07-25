@@ -1,0 +1,13 @@
+.terms {
+    color: #737373;
+    font-size: 13px;
+}
+
+.terms__link {
+    text-decoration: none;
+    color: #0071eb;
+}
+
+.terms__link:hover {
+    text-decoration: underline;
+}
