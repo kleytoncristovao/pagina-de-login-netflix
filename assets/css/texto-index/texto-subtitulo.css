@@ -1,11 +1,13 @@
 .texto__subtitulo--1 {
     color: #ffffff;
     font-size: 1.5rem;
+    font-weight: 400;
     text-align: center;
 }
 
 .texto__subtitulo--2 {
     color: #ffffff;
-    font-size: 1.1rem;
+    font-size: 1.19rem;
+    font-weight: 300;
     text-align: center;
 }

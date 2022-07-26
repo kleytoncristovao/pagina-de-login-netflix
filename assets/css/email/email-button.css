@@ -1,10 +1,11 @@
 .email__button {
     width: 200px;
     color: #fff;
-    font-weight: 300;
+    font-weight: 550;
     background-color: #e50914;
     border-radius: 3px;
     font-size: 22px;
+    letter-spacing: 1px;
     border: none;
 }
 
