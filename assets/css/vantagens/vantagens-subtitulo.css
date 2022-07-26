@@ -1,0 +1,8 @@
+.vantagens__subtitulo {
+    display: flex;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    color: #fff;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}

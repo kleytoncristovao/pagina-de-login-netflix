@@ -1,16 +1,17 @@
 .idioma {
     display: flex;
-    width: 80px;
     justify-content: flex-end;
     margin-right: 25px;
 }
 
 .idioma__select {
     align-items: center;
+    width: 95px;
     padding: 5px;
     color: white;
+    border-radius: 5px;
     border-color: white;
-    background-color: transparent;
+    background: rgba(0,0,0,.4);
     box-shadow: #b3b3b3;
 }
 

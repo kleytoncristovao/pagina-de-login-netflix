@@ -1,0 +1,8 @@
+.vantagens__imagem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    width: 650px;
+    background-color: yellowgreen;
+}

@@ -1,9 +1,14 @@
 .email__button {
-    height: 100%;
-    width: 100%;
+    width: 200px;
     color: #fff;
+    font-weight: 300;
     background-color: #e50914;
     border-radius: 3px;
-    font-size: 16px;
+    font-size: 22px;
     border: none;
+}
+
+.email__button:hover {
+    background-color: #ff1925;
+    cursor: pointer;
 }
