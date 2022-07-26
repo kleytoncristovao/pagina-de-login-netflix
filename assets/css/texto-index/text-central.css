@@ -1,0 +1,10 @@
+.texto-central {
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    flex-direction: column;
+    max-width: 650px;
+    position: relative;
+    padding: 15%;
+    padding-top: 10%;
+}

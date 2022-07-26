@@ -1,0 +1,6 @@
+.texto__titulo {
+    display: flex;
+    text-align: center;
+    color: white;
+    font-size: 3.125rem;
+}

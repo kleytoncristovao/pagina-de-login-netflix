@@ -1,6 +1,7 @@
 .help__link {
     text-decoration: none;
-    color: #737373;
+    color: #b3b3b3;
+    font-size: 14px;
 }
 
 .help__link:hover {

@@ -15,3 +15,31 @@
     background-color: #fc0f1b;
     cursor: pointer;
 }
+
+.botao__index {
+    margin-right: 30px;
+    width: 80px;
+}
+
+.submit__index {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    background-color: #e50914;
+    border-radius: 3px;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.submit__index--link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.submit__indexs:hover {
+    background-color: #fc0f1b;
+    cursor: pointer;
+}

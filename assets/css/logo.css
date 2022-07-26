@@ -1,4 +1,9 @@
 .logo__imagem {
+    height: 65px;
+    width:190px;
+}
+
+.logo__imagem--index {
     height: 60px;
-    width: 190px;
+    width: 150px;
 }

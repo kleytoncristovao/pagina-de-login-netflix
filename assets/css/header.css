@@ -1,0 +1,10 @@
+.header__index {
+    padding-top: 25px;
+    display: flex;
+    height: 35px;
+    justify-content: space-between;
+}
+
+.header__lado-direito {
+    display: flex;
+}

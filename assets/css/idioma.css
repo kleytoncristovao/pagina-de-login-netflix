@@ -1,0 +1,19 @@
+.idioma {
+    display: flex;
+    width: 80px;
+    justify-content: flex-end;
+    margin-right: 25px;
+}
+
+.idioma__select {
+    align-items: center;
+    padding: 5px;
+    color: white;
+    border-color: white;
+    background-color: transparent;
+    box-shadow: #b3b3b3;
+}
+
+.idioma__select option {
+    background-color: #b3b3b3;
+}
