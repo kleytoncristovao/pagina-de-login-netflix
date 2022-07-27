@@ -8,3 +8,12 @@
     padding: 15%;
     padding-top: 10%;
 }
+
+@media screen and (max-width: 950px) {
+    .texto-central {
+        display: flex;
+        padding: 5%;
+        padding-top: 15%;
+        margin-bottom: 20px;
+    }
+}

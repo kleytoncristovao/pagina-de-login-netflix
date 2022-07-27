@@ -28,11 +28,15 @@
 
     .vantagens--baixe {
         display: flex;
+        justify-content: center;
+        text-align: center;
         flex-direction: column-reverse;
     }
 
     .vantagens--infantil {
         display: flex;
+        padding-top: 30px;
+        justify-content: center;
         flex-direction: column-reverse;
     }
 }

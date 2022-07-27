@@ -12,3 +12,10 @@
 .sign-up__link:hover {
     text-decoration: underline;
 }
+
+@media screen and (max-width: 750px) {
+    .sign-up {
+        display: flex;
+        padding-top: 40px;
+    }
+}
