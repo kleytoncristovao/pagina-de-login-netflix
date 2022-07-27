@@ -2,9 +2,23 @@
     padding-top: 25px;
     display: flex;
     height: 35px;
+    position: relative;
     justify-content: space-between;
 }
 
 .header__lado-direito {
     display: flex;
+}
+
+@media screen and (max-width:360px) {
+    .header__index {
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+    .header__lado-direito {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
 }
