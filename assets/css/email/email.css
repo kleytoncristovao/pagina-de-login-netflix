@@ -3,3 +3,12 @@
     height: 60px;
     margin-right: 10px;
 }
+
+@media screen and (max-width: 950px) {
+    .email {
+        display: flex;
+        height: 100px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

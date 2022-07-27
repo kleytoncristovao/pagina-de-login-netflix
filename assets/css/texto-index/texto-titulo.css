@@ -4,3 +4,11 @@
     color: white;
     font-size: 3.125rem;
 }
+
+@media screen and (max-width: 950px) {
+    .texto__titulo {
+        display: flex;
+        height: 100px;
+        margin-bottom: 30px;
+    }
+}

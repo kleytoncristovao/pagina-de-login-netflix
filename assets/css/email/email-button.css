@@ -13,3 +13,13 @@
     background-color: #ff1925;
     cursor: pointer;
 }
+
+@media screen and (max-width: 950px) {
+    .email__button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 112px;
+        height: 40px;
+    }
+}

@@ -30,3 +30,12 @@
     height: 350px;
     width: 450px;
 }
+
+@media screen and (max-width: 950px) {
+    .vantagens__imagem--infantil {
+        display: flex;
+        height: 450px;
+        width: 550px;
+        padding-top: 10px;
+    }
+}

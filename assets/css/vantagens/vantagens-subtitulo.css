@@ -11,8 +11,8 @@
 @media screen and (max-width: 950px) {
     .vantagens__subtitulo {
         display: flex;
-        background-color: yellowgreen;
-        font-size: 1.2rem;
+        text-align: center;
+        font-size: 1.1rem;
         padding-top: 10px;
     }
 }
