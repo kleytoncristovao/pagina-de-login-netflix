@@ -12,10 +12,10 @@
     text-align: center;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 950px) {    
     .texto__subtitulo--2 {
         display: flex;
-        font-size: 1.5rem;
-        margin: 10px 50px 20px 50px;
+        font-size: 1.4rem;
+        margin: 10px 50px 10px 50px;
     }
 }
