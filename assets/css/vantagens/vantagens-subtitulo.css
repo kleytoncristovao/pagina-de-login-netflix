@@ -5,7 +5,6 @@
     letter-spacing: 2px;
     margin: 0px auto;
     color: #fff;
-    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
 
 @media screen and (max-width: 950px) {
@@ -14,5 +13,16 @@
         text-align: center;
         font-size: 1.1rem;
         padding-top: 10px;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .vantagens__subtitulo {
+        display: flex;
+        text-align: center;
+        font-size: 1.1rem;
+        padding-top: 10px;
+        background-color: blue;
+        justify-content: space-around;
     }
 }

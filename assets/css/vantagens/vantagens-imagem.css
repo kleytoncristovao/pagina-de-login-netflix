@@ -1,4 +1,4 @@
-.vantagens__imagem {
+.vantagens__imagem--tv {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -37,5 +37,29 @@
         height: 450px;
         width: 550px;
         padding-top: 10px;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .vantagens__imagem--infantil {
+        display: flex;
+        height: 100%;
+        width: 100%;
+    }
+    .vantagens__imagem--assista {
+        display: flex;
+        height: 100%;
+        width: 100%;
+        padding-right: 30px;
+    }
+    .vantagens__imagem--baixe {
+        display: flex;
+        height: 100%;
+        width: 100%;
+    }
+    .vantagens__imagem--tv {
+        display: flex;
+        height: 100%;
+        width: 100%;
     }
 }
