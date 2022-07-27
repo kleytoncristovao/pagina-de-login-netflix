@@ -2,6 +2,14 @@
     display: flex;
     color: #fff;
     margin-bottom: 20px;
-    font-size: 2.8rem;
+    font-size: 3rem;
     font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+@media screen and (max-width: 950px) {
+    .vantagens__titulo {
+        display: flex;
+        margin: 0 auto;
+        font-size: 2.5rem;
+    }
 }

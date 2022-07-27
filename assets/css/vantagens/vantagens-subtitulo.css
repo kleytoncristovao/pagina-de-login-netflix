@@ -7,3 +7,12 @@
     color: #fff;
     font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
 }
+
+@media screen and (max-width: 950px) {
+    .vantagens__subtitulo {
+        display: flex;
+        background-color: yellowgreen;
+        font-size: 1.2rem;
+        padding-top: 10px;
+    }
+}
