@@ -3,16 +3,16 @@
 }
 
 .input-box__input {
-    height: 50px;
-    width: 100%;
-    color: #fff;
     background-color: #333;
     border: none;
     border-radius: 5px;
-    padding-left: 15px;
     box-sizing: border-box;
-    outline: none;
+    color: #fff;
     font-size: 16px;
+    height: 50px;
+    outline: none;
+    padding-left: 15px;
+    width: 100%;
 }
 
 .input-box__input:hover {

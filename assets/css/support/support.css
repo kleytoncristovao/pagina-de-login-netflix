@@ -1,7 +1,7 @@
 .support {
-    display: flex;
     color: #b3b3b3;
-    justify-content: space-between;
+    display: flex;
     font-size: 12px;
+    justify-content: space-between;
     margin-bottom: 5px;
 }

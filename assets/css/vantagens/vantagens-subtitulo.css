@@ -1,27 +1,27 @@
 .vantagens__subtitulo {
+    color: #fff;
     display: flex;
-    font-weight: 500;
     font-size: 1.4rem;
+    font-weight: 500;
     letter-spacing: 2px;
     margin: 0px auto;
-    color: #fff;
 }
 
 @media screen and (max-width: 950px) {
     .vantagens__subtitulo {
         display: flex;
-        text-align: center;
         font-size: 1.1rem;
         padding-top: 10px;
+        text-align: center;
     }
 }
 
 @media screen and (max-width: 560px) {
     .vantagens__subtitulo {
         display: flex;
-        text-align: center;
         font-size: 1.1rem;
-        padding-top: 10px;
         justify-content: space-around;
+        padding-top: 10px;
+        text-align: center;
     }
 }

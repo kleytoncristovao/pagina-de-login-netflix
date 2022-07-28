@@ -1,16 +1,16 @@
 .login__facebook {
-    display: flex;
     align-items: center;
-    width: 100%;
     color: #737373;
+    display: flex;
+    width: 100%;
 }
 
 .login__facebook span {
-    margin-right: 5px;
     font-size: 13px;
+    margin-right: 5px;
 }
 
 .login__facebook--link {
-    text-decoration: none;
     color: #737373;
+    text-decoration: none;
 }

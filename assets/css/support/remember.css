@@ -1,11 +1,11 @@
 .remember {
-    display: flex;
     align-items: center;
+    display: flex;
 }
 
 .remember__span {
-    display: flex;
-    margin-right: 5px;
-    height: 25px;
     align-items: center;
+    display: flex;
+    height: 25px;
+    margin-right: 5px;
 }

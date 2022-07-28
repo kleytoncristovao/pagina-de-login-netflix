@@ -10,10 +10,10 @@
 
 @media screen and (max-width: 750px) {
     .logo__imagem--responsivo {
-        position: absolute;
-        margin-top: 0px;
-        margin-left: 0px;
         background: none;
+        margin-left: 0px;
+        margin-top: 0px;
+        position: absolute;
         transform: translateX(0);
     }
 }

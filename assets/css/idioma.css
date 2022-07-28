@@ -6,13 +6,13 @@
 
 .idioma__select {
     align-items: center;
-    width: 95px;
-    padding: 5px;
-    color: white;
-    border-radius: 5px;
-    border-color: white;
     background: rgba(0,0,0,.4);
+    border-color: white;
+    border-radius: 5px;
     box-shadow: #b3b3b3;
+    color: white;
+    padding: 5px;
+    width: 95px;
 }
 
 .idioma__select option {

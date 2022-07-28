@@ -1,33 +1,33 @@
 .vantagens__imagem--tv {
-    display: flex;
-    justify-content: center;
     align-items: center;
+    display: flex;
     height: 350px;
+    justify-content: center;
     width: 550px;
 }
 
 .vantagens__imagem--baixe {
-    display: flex;
-    justify-content: center;
     align-items: center;
+    display: flex;
     height: 400px;
+    justify-content: center;
     width: 500px;
 }
 
 .vantagens__imagem--infantil {
-    display: flex;
-    justify-content: center;
     align-items: center;
+    display: flex;
     height: 350px;
-    width: 450px;
+    justify-content: center;
     padding-left: 10px;
+    width: 450px;
 }
 
 .vantagens__imagem--assista {
-    display: flex;
-    justify-content: center;
     align-items: center;
+    display: flex;
     height: 350px;
+    justify-content: center;
     width: 450px;
 }
 
@@ -35,29 +35,18 @@
     .vantagens__imagem--infantil {
         display: flex;
         height: 450px;
-        width: 550px;
         padding-top: 10px;
+        width: 550px;
     }
 }
 
 @media screen and (max-width: 560px) {
-    .vantagens__imagem--infantil {
+    .vantagens__imagem {
         display: flex;
         height: 100%;
         width: 100%;
     }
     .vantagens__imagem--assista {
-        display: flex;
-        height: 100%;
-        width: 100%;
-        padding-right: 30px;
-    }
-    .vantagens__imagem--baixe {
-        display: flex;
-        height: 100%;
-        width: 100%;
-    }
-    .vantagens__imagem--tv {
         display: flex;
         height: 100%;
         width: 100%;

@@ -1,9 +1,9 @@
 .header__index {
-    padding-top: 25px;
     display: flex;
     height: 35px;
-    position: relative;
     justify-content: space-between;
+    padding-top: 25px;
+    position: relative;
 }
 
 .header__lado-direito {
@@ -18,7 +18,7 @@
     }
     .header__lado-direito {
         display: flex;
-        justify-content: center;
         flex-wrap: wrap;
+        justify-content: center;
     }
 }

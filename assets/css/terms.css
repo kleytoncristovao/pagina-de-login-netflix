@@ -4,8 +4,8 @@
 }
 
 .terms__link {
-    text-decoration: none;
     color: #0071eb;
+    text-decoration: none;
 }
 
 .terms__link:hover {
