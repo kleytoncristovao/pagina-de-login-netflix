@@ -37,7 +37,7 @@
 
 ## Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação: http://pagina-de-login-netflix.vercel.app/
+> Link do deploy da aplicação: https://copia-login-kleytoncristovao.vercel.app/
 
 
 ## Como rodar a aplicação :arrow_forward:
