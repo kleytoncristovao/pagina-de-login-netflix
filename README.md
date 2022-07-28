@@ -32,7 +32,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Este projeto foi desenvolvido com base no vídeo <a href="https://youtu.be/hmkTPZ_nOik">Página de Login da Netflix | HTML e CSS</a> da Larissa Kich, fiz algumas implentenções e melhorias no projeto e melhorando para mim a responsividade, deixando de uma forma que possa ser acessado de qualquer aparelho, para desenvolver encontrei um pouco de dificuldade, mas consegui superar e aplicar os conceitos que aprendi e principalmente a arquitetura do projeto e utilizando BEM (Block Element Modifier), acrescentando a tela inicial de login e responsividade, não está 100% igual mas tentei fazer da forma mais parecida possível.
+  Este projeto foi desenvolvido com base no vídeo <a href="https://youtu.be/hmkTPZ_nOik" target="_blank">Página de Login da Netflix | HTML e CSS</a> da Larissa Kich, fiz algumas implentenções e melhorias no projeto e melhorando para mim a responsividade, deixando de uma forma que possa ser acessado de qualquer aparelho, para desenvolver encontrei um pouco de dificuldade, mas consegui superar e aplicar os conceitos que aprendi e principalmente a arquitetura do projeto e utilizando BEM (Block Element Modifier), acrescentando a tela inicial de login e responsividade, não está 100% igual mas tentei fazer da forma mais parecida possível.
 </p>
 
 ## Deploy da Aplicação :dash:
@@ -50,7 +50,7 @@ git clone https://github.com/kleytoncristovao/pagina-de-login-netflix
 
 ## Casos de Uso
 
-Esta página é apenas uma representação de uma das maiores plataformas de Streaming hoje, então para usufruir de todas as funções acesse esse link: <a href="https://www.netflix.com/br/">Netflix</a>
+Esta página é apenas uma representação de uma das maiores plataformas de Streaming hoje, então para usufruir de todas as funções acesse esse link: <a href="https://www.netflix.com/br/" target="_blank">Netflix</a>
 
 
 ## Desenvolvedores/Contribuintes :octocat:
